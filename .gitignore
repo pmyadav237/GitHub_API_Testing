@@ -1,0 +1,7 @@
+# cache files
+.cache/
+
+
+# Data files
+.idea/*.xml
+.idea/*.iml
