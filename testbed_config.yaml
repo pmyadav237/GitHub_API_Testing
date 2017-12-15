@@ -1,0 +1,11 @@
+git_testbed:
+
+    host_url: "https://api.github.com"
+    headers:
+            User-Agent: 'Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405'
+            Content-Type: 'application/json'
+    client_id : "pmyadav237"
+    client_secret : "Pass@123"
+    authorization_base_url : 'https://github.com/login/oauth/authorize'
+    token_url : 'https://github.com/login/oauth/access_token'
+
